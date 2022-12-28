@@ -15,7 +15,7 @@
 - 18 anos
 - Gosto de jogar video game
 - Gosto de assistir filmes e gameplays
-- Pretendo me tornar Desenvolvedor Full-Stack 
+- Na jornada para me tornar Desenvolvedor Full-Stack 
 
 <br><br>
 
